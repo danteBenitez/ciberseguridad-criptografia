@@ -1,0 +1,3 @@
+Resultado de intentar crackear hash.txt:
+6b500f0e9bc28ea48b8f85c115f84d233c329f46d46b84b9dcf32fc4ea01d981:contrasena123
+
